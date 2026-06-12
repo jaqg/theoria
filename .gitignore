@@ -1,6 +1,7 @@
 # Blender
 *.blend1
 *.blend2
+*.blend
 
 # Python
 __pycache__/
@@ -19,3 +20,6 @@ Thumbs.db
 
 # Blender add-on build artifacts
 *.zip
+
+# Logs
+*.log
